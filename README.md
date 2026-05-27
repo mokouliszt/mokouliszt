@@ -1,7 +1,12 @@
 ## 👋 About
 - 🎌 Based in Japan
 
-## 📦 Paid Apps
+## OSS
+
+Please refer to the respective repositories.
+各リポジトリを参照してください。
+
+## 📦 Paid Apps (有償アプリ)
 
 ### 🎬 BeatBarVideoGenerator
 [![DLsite](https://img.shields.io/badge/DLsite-RJ01635487-blue)](https://www.dlsite.com/app/work/=/product_id/RJ01635487.html)  
