@@ -16,6 +16,8 @@ Please refer to the respective repositories.
 
 クロマキー合成用の 緑バック ビートバー動画 を Android 上で生成するアプリ。   
 ターゲット円に向かって BPM 同期で流れてくるノーツと、任意のクリック音をミックスした MP4 を出力します。   
+<img width="454" height="256" alt="Adobe Express - beatbar_120bpm_2026-05-27T15-52-35-699Z" src="https://github.com/user-attachments/assets/9cfbcbc3-8c79-469d-81dc-a047586ff67f" />
+
 価格: 2,200円  
 [BeatBarVideoGenerator Buy the app](https://www.dlsite.com/app/work/=/product_id/RJ01635487.html)  
 [![DLsiteで購入](https://www.dlsite.com/img/dlsite1.gif)](https://www.dlsite.com/app/work/=/product_id/RJ01635487.html)  
