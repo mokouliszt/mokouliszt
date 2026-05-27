@@ -2,7 +2,9 @@
 - ⚙ Software Engineer
 - 🎌 Based in Japan
 
-## 🎬 BeatBarVideoGenerator（Paid App）
+## 📦 Featured Projects(有償 Paid)
+
+## 🎬 BeatBarVideoGenerator（有償 Paid App）
 [![DLsite](https://img.shields.io/badge/DLsite-RJ01635487-blue)](https://www.dlsite.com/app/work/=/product_id/RJ01635487.html)  
 <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/2266e8b4-5656-41d0-b63f-4f999cf7cca3" />
 
