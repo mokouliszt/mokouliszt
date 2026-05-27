@@ -19,3 +19,10 @@ Please refer to the respective repositories.
 価格: 2,200円  
 [BeatBarVideoGenerator Buy the app](https://www.dlsite.com/app/work/=/product_id/RJ01635487.html)  
 [![DLsiteで購入](https://www.dlsite.com/img/dlsite1.gif)](https://www.dlsite.com/app/work/=/product_id/RJ01635487.html)  
+
+## 🔗 Links
+
+### DLSiteサークルページ
+[![DLsite](https://img.shields.io/badge/DLsite-Circle%20Page-blue?style=for-the-badge)](https://www.dlsite.com/app/circle/profile/=/maker_id/XXXXX.html)
+### Ko-fi(ご支援ください)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mokouliszt)  
