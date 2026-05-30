@@ -1,7 +1,7 @@
 ## 👋 About
 - 🎌 Based in Japan
 
-## OSS
+## 📓 OSS
 
 Please refer to the respective repositories.
 各リポジトリを参照してください。
