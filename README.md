@@ -1,6 +1,9 @@
 ## 👋 About
 - 🎌 Based in Japan
 
+## 🖥️Technical Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokouliszt&layout=compact)
+
 ## 📓 OSS
 
 Please refer to the respective repositories.
